@@ -1,4 +1,4 @@
-# electronic-products-recommendation
+# HYBRID RECOMMENDATION OF ELECTRONIC PRODUCTS USING SVD AND BERT ON AMAZON DATASET
 uses the latest state of the art cross sel-attention method to combine SVD and BERT
 
 
